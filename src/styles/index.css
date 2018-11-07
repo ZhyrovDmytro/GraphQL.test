@@ -24,8 +24,21 @@ input {
   font-size: 11px;
 }
 
+.fw7 {
+  font-weight: 600;
+  display: inline-block;
+}
+
+.mr1 {
+  margin-right: 10px;
+}
+
 .w85 {
   width: 85%;
+}
+
+.ml1 {
+  display: inline-block;
 }
 
 .button {
